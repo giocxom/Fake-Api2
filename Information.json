@@ -1,0 +1,59 @@
+{
+"Information": [
+    {
+        "id": 6,
+        "date": "10 july,2020",
+        "subCategory": "Hair Vitamins",
+        "title": "D-Panthenol",
+        "img": "https://shop.cybex-online.com/dw/image/v2/BFHM_PRD/on/demandware.static/-/Sites-cybex-us-navigation-catalog/default/dwf8576324/navigation/CYBEX-Campaign_Navigation-Strollers-Gazelle_S-Promotion-4.jpg?sw=1008&sh=600&sm=fit&sfrm=jpg&q=70&strip=false",
+        "price": 8.50,
+        "amount": "20 ml",
+        "review": 1,
+        "annotation": "Visit Avers and enjoy a 20% discount on Chipolino children's products"
+    },
+    {
+        "id": 7,
+        "date": "10 july,2020",
+        "subCategory": "Hair Vitamins",
+        "title": "D-Panthenol",
+        "img": "https://shop.cybex-online.com/dw/image/v2/BFHM_PRD/on/demandware.static/-/Sites-cybex-us-navigation-catalog/default/dwf8576324/navigation/CYBEX-Campaign_Navigation-Strollers-Gazelle_S-Promotion-4.jpg?sw=1008&sh=600&sm=fit&sfrm=jpg&q=70&strip=false",
+        "price": 18.30,
+        "amount": "20 ml",
+        "review": 2,
+        "annotation": "Visit Avers and enjoy a 20% discount on Chipolino children's products"
+    },
+    {
+        "id": 8,
+        "date": "14 july,2020",
+        "subCategory": "Hair Vitamins",
+        "title": "D-Panthenol",
+        "img": "https://shop.cybex-online.com/dw/image/v2/BFHM_PRD/on/demandware.static/-/Sites-cybex-us-navigation-catalog/default/dwf8576324/navigation/CYBEX-Campaign_Navigation-Strollers-Gazelle_S-Promotion-4.jpg?sw=1008&sh=600&sm=fit&sfrm=jpg&q=70&strip=false",
+        "price": 6.20,
+        "amount": "20 ml",
+        "review": 3,
+        "annotation": "Visit Avers and enjoy a 20% discount on Chipolino children's products"
+    },
+    {
+        "id": 9,
+        "date": "12 july,2020",
+        "subCategory": "Hair Vitamins",
+        "title": "D-Panthenol",
+        "img": "https://shop.cybex-online.com/dw/image/v2/BFHM_PRD/on/demandware.static/-/Sites-cybex-us-navigation-catalog/default/dwf8576324/navigation/CYBEX-Campaign_Navigation-Strollers-Gazelle_S-Promotion-4.jpg?sw=1008&sh=600&sm=fit&sfrm=jpg&q=70&strip=false",
+        "price": 13.50,
+        "amount": "20 ml",
+        "review": 4,
+        "annotation": "Visit Avers and enjoy a 20% discount on Chipolino children's products"
+    },
+    {
+        "id": 10,
+        "date": "11 july,2020",
+        "subCategory": "Hair Vitamins",
+        "title": "D-Panthenol",
+        "img": "https://shop.cybex-online.com/dw/image/v2/BFHM_PRD/on/demandware.static/-/Sites-cybex-us-navigation-catalog/default/dwf8576324/navigation/CYBEX-Campaign_Navigation-Strollers-Gazelle_S-Promotion-4.jpg?sw=1008&sh=600&sm=fit&sfrm=jpg&q=70&strip=false",
+        "price": 28.30,
+        "amount": "20 ml",
+        "review": 5,
+        "annotation": "Visit Avers and enjoy a 20% discount on Chipolino children's products"
+    }
+]
+}
